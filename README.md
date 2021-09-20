@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01arvind
+- 👋 Hi, I’m Arvind
 - 👀 I’m interested in programming and developing
 - 🌱 I’m currently learning C/C++?Python/JAVA/HTML/CSS/JavaScript?Bootstrap/React/NodeJS/MYSQL/Linux/GIT
 - 💞️ I’m looking to collaborate on  something that I find interesting.
